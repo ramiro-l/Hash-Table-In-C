@@ -6,8 +6,7 @@ This repository contains a basic implementation of a hash table in C, built from
 
 1. [What is a hash table?](https://en.wikipedia.org/wiki/Hash_table)
 2. [How does a hash table work?](https://en.wikipedia.org/wiki/Hash_function)
-3. [Why use a hash table?](https://en.wikipedia.org/wiki/Hash_table#Advantages)
-4. [How to use this repository](#usage)
+3. [How to use this repository](#usage)
 
 ## Usage
 
